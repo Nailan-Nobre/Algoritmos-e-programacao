@@ -1,4 +1,5 @@
 #include <stdio.h>
+// Exemplo de uso de variáveis e expressões aritméticas
 
 int main() {
     int a;
