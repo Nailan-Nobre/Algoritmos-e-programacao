@@ -1,6 +1,7 @@
 *.exe
 output/
 input/
+Print-de-codigo/
 *.o
 *.obj
 *.out
